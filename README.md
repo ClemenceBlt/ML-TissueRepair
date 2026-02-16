@@ -1,0 +1,1 @@
+Python code and documentation for the article <em>How to gain valuable insight from scarce data with Machine Learning: a post-hoc explanation tool to identify biases in biological images classification</em>, C. Bolut et al.
